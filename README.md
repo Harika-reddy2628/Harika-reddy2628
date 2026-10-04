@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="./assets/header.svg" width="100%" alt="Harika Reddy Header Banner" />
+<img src="https://raw.githubusercontent.com/Harika-reddy2628/Harika-reddy2628/main/assets/header.svg" width="100%" alt="Harika Reddy Header Banner" />
+
 
 <br/>
 

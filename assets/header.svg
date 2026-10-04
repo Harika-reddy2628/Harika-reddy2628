@@ -1,0 +1,169 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 250" width="100%" height="250" fill="none">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="50%" stop-color="#161b22" />
+      <stop offset="100%" stop-color="#0f141c" />
+    </linearGradient>
+
+    <!-- Accent Gradients -->
+    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7aa2f7" />
+      <stop offset="50%" stop-color="#bb9af7" />
+      <stop offset="100%" stop-color="#7dcfff" />
+    </linearGradient>
+
+    <linearGradient id="badge-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3d59a1" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#7aa2f7" stop-opacity="0.15" />
+    </linearGradient>
+
+    <linearGradient id="glow-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#bb9af7" stop-opacity="0.0" />
+    </linearGradient>
+
+    <!-- Glowing Node Gradients -->
+    <radialGradient id="node-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#7aa2f7" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="pep-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f7768e" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#f7768e" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="mcp-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7dcfff" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#7dcfff" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Drop Shadow Filter -->
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.5" />
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes pulse {
+      0%, 100% { opacity: 0.6; transform: scale(1); }
+      50% { opacity: 1; transform: scale(1.05); }
+    }
+    @keyframes float {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-4px); }
+    }
+    .node-pulse { animation: pulse 3s ease-in-out infinite; transform-origin: center; }
+    .floating-badge { animation: float 4s ease-in-out infinite; }
+    .mono-text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .sans-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+  </style>
+
+  <!-- Container Box -->
+  <rect x="1" y="1" width="848" height="248" rx="16" fill="url(#bg-grad)" stroke="#30363d" stroke-width="1.5" />
+
+  <!-- Ambient Glow Behind Node Graphic -->
+  <circle cx="700" cy="125" r="140" fill="url(#glow-grad)" />
+
+  <!-- Subtle Grid Lines -->
+  <g stroke="#30363d" stroke-width="0.75" stroke-dasharray="3 3" opacity="0.35">
+    <line x1="40" y1="40" x2="810" y2="40" />
+    <line x1="40" y1="90" x2="810" y2="90" />
+    <line x1="40" y1="140" x2="810" y2="140" />
+    <line x1="40" y1="190" x2="810" y2="190" />
+    <line x1="200" y1="20" x2="200" y2="230" />
+    <line x1="400" y1="20" x2="400" y2="230" />
+    <line x1="560" y1="20" x2="560" y2="230" />
+  </g>
+
+  <!-- Left Content: Identity & Spec -->
+  <!-- Tag Pill -->
+  <g transform="translate(42, 34)">
+    <rect x="0" y="0" width="280" height="26" rx="13" fill="url(#badge-grad)" stroke="#7aa2f7" stroke-opacity="0.4" stroke-width="1" />
+    <circle cx="14" cy="13" r="4" fill="#9ece6a" />
+    <text x="26" y="17" fill="#7aa2f7" font-size="11.5" font-weight="600" class="mono-text" letter-spacing="0.5">AGENTIC SYSTEMS &amp; INFRASTRUCTURE</text>
+  </g>
+
+  <!-- Name -->
+  <text x="42" y="102" fill="url(#text-grad)" font-size="34" font-weight="800" class="sans-text" letter-spacing="-0.5">Duddekunta Harika Reddy</text>
+
+  <!-- Role Subtitle -->
+  <text x="42" y="132" fill="#c0caf5" font-size="14.5" font-weight="500" class="sans-text">
+    Building Autonomous AI Systems <tspan fill="#565f89">•</tspan> Deterministic Safety Guardrails <tspan fill="#565f89">•</tspan> Resilient Backends
+  </text>
+
+  <!-- Quick Badges Row -->
+  <g transform="translate(42, 160)">
+    <!-- Badge 1: Location -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="135" height="26" rx="6" fill="#1f2335" stroke="#3b4261" stroke-width="1" />
+      <text x="10" y="17" fill="#7dcfff" font-size="12" class="sans-text">📍 Hyderabad, IN</text>
+    </g>
+
+    <!-- Badge 2: Hackathon Finalist -->
+    <g transform="translate(145, 0)">
+      <rect x="0" y="0" width="185" height="26" rx="6" fill="#1f2335" stroke="#e0af68" stroke-opacity="0.5" stroke-width="1" />
+      <text x="10" y="17" fill="#e0af68" font-size="12" font-weight="600" class="sans-text">🏆 Smart Horizon Finalist</text>
+    </g>
+
+    <!-- Badge 3: SUTRA & PulseGuard -->
+    <g transform="translate(340, 0)">
+      <rect x="0" y="0" width="170" height="26" rx="6" fill="#1f2335" stroke="#bb9af7" stroke-opacity="0.5" stroke-width="1" />
+      <text x="10" y="17" fill="#bb9af7" font-size="12" class="sans-text">🛡️ PulseGuard &amp; SUTRA</text>
+    </g>
+  </g>
+
+  <!-- Micro status line -->
+  <text x="42" y="218" fill="#565f89" font-size="11.5" class="mono-text">
+    <tspan fill="#73daca">❯</tspan> B.Tech CSE (AI) @ NxtWave <tspan fill="#414868">|</tspan> ISO 8583 <tspan fill="#414868">|</tspan> Model Context Protocol (MCP) <tspan fill="#414868">|</tspan> FastAPI
+  </text>
+
+  <!-- Right Visual: Agentic Architecture Diagram (Node System) -->
+  <g transform="translate(680, 125)">
+    <!-- Connecting Circuit Lines -->
+    <line x1="-80" y1="0" x2="-25" y2="-45" stroke="#7aa2f7" stroke-width="1.8" stroke-dasharray="4 2" opacity="0.7" />
+    <line x1="-80" y1="0" x2="-25" y2="45" stroke="#f7768e" stroke-width="1.8" stroke-dasharray="4 2" opacity="0.7" />
+    <line x1="-25" y1="-45" x2="55" y2="-25" stroke="#7dcfff" stroke-width="1.8" opacity="0.8" />
+    <line x1="-25" y1="45" x2="55" y2="25" stroke="#bb9af7" stroke-width="1.8" opacity="0.8" />
+    <line x1="55" y1="-25" x2="55" y2="25" stroke="#9ece6a" stroke-width="1.8" opacity="0.6" />
+
+    <!-- Node 1: Autonomous Agent Core (Center-Left) -->
+    <g transform="translate(-80, 0)">
+      <circle cx="0" cy="0" r="28" fill="url(#node-glow)" class="node-pulse" />
+      <circle cx="0" cy="0" r="18" fill="#1a1b26" stroke="#7aa2f7" stroke-width="2" />
+      <text x="0" y="4" fill="#7aa2f7" font-size="9" font-weight="700" text-anchor="middle" class="mono-text">AGENT</text>
+    </g>
+
+    <!-- Node 2: Safety PEP / Guardrail (Bottom Middle) -->
+    <g transform="translate(-25, 45)">
+      <circle cx="0" cy="0" r="22" fill="url(#pep-glow)" opacity="0.5" />
+      <rect x="-18" y="-13" width="36" height="26" rx="6" fill="#1a1b26" stroke="#f7768e" stroke-width="1.8" />
+      <text x="0" y="4" fill="#f7768e" font-size="8.5" font-weight="700" text-anchor="middle" class="mono-text">PEP</text>
+    </g>
+
+    <!-- Node 3: Model Context Protocol (Top Middle) -->
+    <g transform="translate(-25, -45)">
+      <circle cx="0" cy="0" r="22" fill="url(#mcp-glow)" opacity="0.5" />
+      <rect x="-18" y="-13" width="36" height="26" rx="6" fill="#1a1b26" stroke="#7dcfff" stroke-width="1.8" />
+      <text x="0" y="4" fill="#7dcfff" font-size="8.5" font-weight="700" text-anchor="middle" class="mono-text">MCP</text>
+    </g>
+
+    <!-- Node 4: Swarm / Telemetry (Top Right) -->
+    <g transform="translate(55, -25)">
+      <circle cx="0" cy="0" r="15" fill="#1a1b26" stroke="#bb9af7" stroke-width="1.5" />
+      <text x="0" y="3.5" fill="#bb9af7" font-size="8" font-weight="700" text-anchor="middle" class="mono-text">UAV</text>
+    </g>
+
+    <!-- Node 5: ISO 8583 / Banking (Bottom Right) -->
+    <g transform="translate(55, 25)">
+      <circle cx="0" cy="0" r="15" fill="#1a1b26" stroke="#9ece6a" stroke-width="1.5" />
+      <text x="0" y="3.5" fill="#9ece6a" font-size="7.5" font-weight="700" text-anchor="middle" class="mono-text">ISO</text>
+    </g>
+
+    <!-- Data Stream Packets (animated/pulsed decorative dots) -->
+    <circle cx="-52" cy="-22" r="3" fill="#7dcfff" />
+    <circle cx="-52" cy="22" r="3" fill="#f7768e" />
+    <circle cx="15" cy="-35" r="3" fill="#bb9af7" />
+    <circle cx="15" cy="35" r="3" fill="#9ece6a" />
+  </g>
+</svg>

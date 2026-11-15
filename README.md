@@ -1,29 +1,30 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://raw.githubusercontent.com/Harika-reddy2628/Harika-reddy2628/main/assets/header.svg" width="100%" alt="Harika Reddy - Agentic AI Enthusiast Banner" />
+<img src="https://raw.githubusercontent.com/Harika-reddy2628/Harika-reddy2628/main/assets/header.svg" width="100%" alt="Harika Reddy Header Banner" />
 
 <br/>
 
 <!-- Dynamic Animated Typing Header -->
 <a href="https://github.com/Harika-reddy2628">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=780&lines=Agentic+AI+Enthusiast+%26+Autonomous+Systems+Builder;Living+at+the+Frontier+of+MCP%2C+Tool-Use+%26+FastMCP;Decentralized+Multi-Agent+Swarms+%26+Tactical+Telemetry;Bounded+Autonomy%3A+Agent+Planning+%2B+Deterministic+PEPs;Grand+Finalist+%40+Smart+Horizon+Hackathon+2026" alt="Agentic AI Typing Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=800&lines=B.Tech+CSE+(Artificial+Intelligence)+Undergrad;Building+AI+%26+ML+Projects+from+First+Principles;Grand+Finalist+%40+Smart+Horizon+International+Hackathon;Daily+Practice+%E2%80%A2+13-Week+Deep+Learning+Sprint+In+Progress" alt="Typing Header" />
 </a>
 
 <br/>
 
 <!-- Badges & Social Links -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Agentic_AI_Enthusiast-7AA2F7?style=for-the-badge&logo=robot&logoColor=white" alt="Agentic AI Enthusiast" />
-  <img src="https://img.shields.io/badge/Protocol-Model_Context_Protocol_(MCP)-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP" />
+  <a href="https://harika-reddy2628.github.io/harika-tracker/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Roadmap-Sprint_Tracker-7AA2F7?style=for-the-badge&logo=target&logoColor=white" alt="Sprint Tracker" />
+  </a>
   <a href="https://linkedin.com/in/harikareddy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Harika_Reddy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://huggingface.co/harikareddy" target="_blank">
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+    <img src="https://img.shields.io/badge/Hugging_Face-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   </a>
   <a href="mailto:duddekuntahaari@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -31,108 +32,98 @@
 
 ---
 
-### 🤖 The Agentic AI Manifesto
+### 👋 Hi, I'm Harika Reddy
 
-> *"I believe software is undergoing a generational shift: moving from static chatbots that merely answer questions to **autonomous agentic architectures** that perceive environments, formulate multi-step plans, wield real-world tools, self-correct, and collaborate in decentralized swarms."*
+I am a **Computer Science undergraduate specializing in Artificial Intelligence** at **NxtWave Institute of Advanced Technologies (IAT)**, Hyderabad.
 
-I am an **Agentic AI Enthusiast, Researcher & Autonomous Systems Builder** based in Hyderabad, India. My passion lies at the intersection of **autonomous reasoning and deterministic execution**:
-
-- 🧠 **Autonomous Planning & Tool Harnessing:** Giving agents deep contextual awareness via the **Model Context Protocol (MCP)**, structured tool-calling, and AST-backed knowledge representations.
-- 🛡️ **Bounded Autonomy & Safety PEPs:** Solving the reliability dilemma by bounding probabilistic LLM reasoning inside non-negotiable **Policy Enforcement Points (PEPs)**—ensuring agents operate safely in mission-critical environments like banking (ISO 8583) and tactical aerial swarms.
-- 🛸 **Multi-Agent Swarms & Decentralization:** Designing multi-agent topologies where specialized agents divide tasks, exchange structured telemetry (MIL-STD Cursor-on-Target), and handle mission-critical fail-safes autonomously.
+I love exploring how intelligent systems work under the hood—from mathematical foundations and data analysis to neural networks, model fine-tuning, and practical agent workflows. I believe in **learning in public**, writing clean and tested code, and staying disciplined through daily practice.
 
 ```yaml
-agent_profile:
-  identity: "Duddekunta Harika Reddy"
-  persona: "Agentic AI Enthusiast & Systems Engineer"
-  degree: "B.Tech CSE (Artificial Intelligence) @ NxtWave IAT"
-  core_obsession: "Autonomous Reasoning Loops • MCP Tool Integration • Bounded Agent Safety"
-
-agentic_stack:
-  protocols: ["Model Context Protocol (MCP / FastMCP)", "JSON-RPC 2.0", "ISO 8583", "Cursor-on-Target XML"]
-  architectures: ["ReAct", "Plan-and-Execute", "Hierarchical Multi-Agent", "Decentralized Swarms"]
-  guardrails: ["Deterministic Policy Enforcement Points (PEP)", "Schema-Validated ASTs", "Zero-Leak POSIX"]
+profile:
+  name: "Duddekunta Harika Reddy"
+  role: "AI & Software Engineering Student"
+  location: "Hyderabad, India"
+  education: "B.Tech CSE (Artificial Intelligence) @ NxtWave IAT"
+  current_focus: "13-Week Deep Learning Sprint (Python → PyTorch → Transformers)"
+  tracker: "https://harika-reddy2628.github.io/harika-tracker/"
 ```
 
 ---
 
-### 🧩 How I Approach Agentic AI
+### 📈 Current Learning Focus: 13-Week Deep Learning Sprint
 
-<div align="center">
+I am currently undertaking a structured 13-week technical sprint (Nov 2026 – Feb 2027) covering foundational and applied deep learning:
 
-| Core Pillar | Focus &amp; Practical Implementation |
-| :--- | :--- |
-| **🔌 Tool Interfacing &amp; MCP** | Building custom **Model Context Protocol (MCP)** servers over stdio and SSE to give agents first-class access to APIs, task boards (ClickUp), AST code graphs, and local system tools. |
-| **🛸 Multi-Agent Coordination** | Architecting multi-agent communication topologies where agents hand off tasks, verify peer outputs, and synchronize decentralized state (showcased in **Project SUTRA**). |
-| **🛡️ Bounded Policy Enforcement** | Implementing hardcoded, non-AI **Policy Enforcement Points (PEPs)** that act as mathematical circuit-breakers between an agent's proposed actions and live execution. |
-| **⚡ Local-First &amp; Edge Agents** | Experimenting with local-first agent runtimes using **Ollama**, **LiteRT (Gemma)**, and low-power companion compute units (ESP32-S3). |
+- 🐍 **Phase 1 (Weeks 1–3):** Python mastery, OOP, algorithms, and Git/GitHub fundamentals.
+- 📊 **Phase 2 (Weeks 4–5):** NumPy, linear algebra (3Blue1Brown), pandas, EDA → **Project A: Public Data Analysis**.
+- 🧠 **Phase 3 (Weeks 6–9):** Classical ML, gradient descent, neural network math, PyTorch foundations.
+- 👁️ **Phase 4 (Weeks 10–11):** CNNs & transfer learning → **Project B: Live Image Classifier on Hugging Face Spaces**.
+- 💬 **Phase 5 (Weeks 12–13):** NLP, Transformer architectures → **Project C: Fine-tuned text model & portfolio**.
 
-</div>
+> 💡 *My daily practice, problem sets, and commit milestones are tracked live on my [Public Sprint Tracker](https://harika-reddy2628.github.io/harika-tracker/).*
 
 ---
 
-### 🚀 Agentic AI In Action: Flagship Projects
+### 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/Harika-reddy2628/smart-retry-guard">PulseGuard AI — Autonomous Payment Agent</a></h3>
-      <p><em>Intelligent payment recovery agent with hard deterministic ISO 8583 banking safety guardrails.</em></p>
+      <h3>🛡️ <a href="https://github.com/Harika-reddy2628/smart-retry-guard">Smart Retry Guard (PulseGuard)</a></h3>
+      <p><em>Payment recovery prototype exploring rule-based safety guardrails and adaptive retry logic.</em></p>
       <ul>
-        <li><b>Root-Cause Reasoner:</b> Evaluates raw ISO 8583 card network decline codes and autonomously plans adaptive dunning &amp; retry schedules.</li>
-        <li><b>Deterministic PEP Circuit-Breaker:</b> A non-AI Policy Enforcement Point validates every agent decision against Visa/Mastercard 15-attempt/30-day limits, blocking 100% of illegal retries.</li>
-        <li><b>Self-Verifying Test Harness:</b> Automated pytest simulation validating agent trajectory execution under chaotic network conditions.</li>
+        <li>Analyzes transaction decline codes to suggest non-intrusive retry intervals.</li>
+        <li>Implements deterministic limits to prevent spamming payment gateways.</li>
+        <li>Built with automated pytest unit testing for edge case validation.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Agentic_Planning-7AA2F7?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/ISO_8583-009688?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pydantic_v2-E92063?style=flat-square&logo=pydantic&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛸 <a href="https://github.com/Harika-reddy2628/SUTRA-PPT">Project SUTRA — Autonomous Multi-UAV Swarm</a></h3>
-      <p><em>Swarm Unified Tactical Reconnaissance Architecture — Multi-agent aerial coordination in GPS-denied environments.</em></p>
+      <h3>🛸 <a href="https://github.com/Harika-reddy2628/SUTRA-PPT">Project SUTRA — Swarm Reconnaissance Concept</a></h3>
+      <p><em>Multi-agent coordination architecture designed for GPS-denied environments.</em></p>
       <ul>
-        <li><b>Grand Finalist @ Smart Horizon 2026:</b> Selected for the international Grand Finale showcase out of hundreds of global teams.</li>
-        <li><b>Autonomous CONOPS:</b> Led Subsystem E (Verification Audits &amp; Field Operations), architecting decentralized state machines for contested zones.</li>
-        <li><b>High-Frequency Telemetry:</b> Ingested tri-modal sensor feeds into a 3D WebGPU GCS, formatting MIL-STD Cursor-on-Target (CoT) XML feeds at 60 FPS.</li>
+        <li><b>Grand Finalist @ Smart Horizon 2026:</b> Selected for the international 48-hour hackathon Grand Finale showcase.</li>
+        <li>Designed coordination logic and verification checkpoints for multi-agent workflows.</li>
+        <li>Explored low-latency state synchronization across simulated nodes.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Swarm_Intelligence-BB9AF7?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/WebGPU-FF4081?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/ESP32--S3-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-        <img src="https://img.shields.io/badge/CoT_XML-000000?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Swarm_Concept-BB9AF7?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hackathon_Finalist-FFD700?style=flat-square&logoColor=black" />
+        <img src="https://img.shields.io/badge/Systems_Design-7AA2F7?style=flat-square&logoColor=white" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📐 <a href="https://github.com/Harika-reddy2628/anvaya">Anvaya-CLI — Spatial Multimodal Ingestion Agent</a></h3>
-      <p><em>Multi-stage autonomous agent pipeline turning 2D architectural blueprints into Draco-compressed 3D assets.</em></p>
+      <h3>💰 <a href="https://github.com/Harika-reddy2628/smart-savings-advisor">Smart Savings Advisor</a></h3>
+      <p><em>Student-focused budgeting and expense tracking application.</em></p>
       <ul>
-        <li><b>Multimodal Perception:</b> Uses Gemini Vision OCR to parse raw PDF blueprints into structured SI-metric CAD/BIM schemas.</li>
-        <li><b>Autonomous Tool Invocation:</b> Drives headless Blender 3D compilation with automated Draco geometry compression via gltf-transform.</li>
-        <li><b>Zero-Leak Governance:</b> Enforces strict POSIX 0600 permission checks before syncing asset catalogs to Hugging Face Hub.</li>
+        <li>Helps college students monitor daily expenses and set realistic savings targets.</li>
+        <li>Provides clear visual breakdowns of category spending patterns.</li>
+        <li>Clean, responsive interface focused on usability and simplicity.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Gemini_Vision_OCR-4285F4?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/Headless_Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" />
-        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Web_UI-06B6D4?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Responsive-4CAF50?style=flat-square&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/Harika-reddy2628">Custom MCP Servers &amp; Agent Tooling</a></h3>
-      <p><em>Bridging LLM agent runtimes with real-world infrastructure and project workflows.</em></p>
+      <h3>⚡ <a href="https://github.com/Harika-reddy2628/harika-roadmap">Sprint Tracker &amp; Automation</a></h3>
+      <p><em>Automated, publicly deployed tracking system for my 13-week study roadmap.</em></p>
       <ul>
-        <li><b>Model Context Protocol Integration:</b> Authored and integrated production-grade MCP servers (ClickUp, Code Search, File Ingestion).</li>
-        <li><b>Bidirectional Tool Calling:</b> Enables agents to autonomously inspect workspace hierarchies, create tasks, and manage project lifecycles.</li>
-        <li><b>AST &amp; Memory Tooling:</b> Experimenting with AST-indexed codebase graphs for sub-token agent code navigation.</li>
+        <li>Automatically aggregates daily commit activity and practice problem counts.</li>
+        <li>Scheduled via GitHub Actions 7×/day and hosted on GitHub Pages.</li>
+        <li>Zero manual logging: real accountability visible in real time.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/MCP_Servers-000000?style=flat-square&logo=anthropic&logoColor=white" />
-        <img src="https://img.shields.io/badge/JSON--RPC_2.0-7AA2F7?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/ClickUp_MCP-7B68EE?style=flat-square&logo=clickup&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -140,32 +131,31 @@ agentic_stack:
 
 ---
 
-### 🛠️ Agentic AI &amp; Engineering Stack
+### 🛠️ Technical Toolbox
 
 <div align="center">
 
-| Domain | Technologies &amp; Frameworks |
+| Area | Technologies |
 | :--- | :--- |
-| **Agent Runtimes &amp; Protocols** | <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-000000?style=flat-square&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/FastMCP-4338CA?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Gemma_/_LiteRT-4285F4?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> |
-| **Languages &amp; Core Backend** | <img src="https://img.shields.io/badge/Python_3.11+-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Pydantic_v2-E92063?style=flat-square&logo=pydantic&logoColor=white" /> <img src="https://img.shields.io/badge/AsyncIO-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Bash_/_Zsh-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /> |
-| **Agent Ingestion &amp; Scraping** | <img src="https://img.shields.io/badge/crawl4ai-FF6B6B?style=flat-square&logo=spider&logoColor=white" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" /> <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" /> <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" /> |
-| **Frontend &amp; Spatial Graphics** | <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/WebGPU-FF4081?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Mapbox_GL-000000?style=flat-square&logo=mapbox&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> |
-| **DevOps, Cloud &amp; Edge** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> <img src="https://img.shields.io/badge/ESP32--S3-E7352C?style=flat-square&logo=espressif&logoColor=white" /> <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white" /> |
+| **Languages &amp; Fundamentals** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/SQL_Basics-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /> |
+| **Machine Learning &amp; Data** | <img src="https://img.shields.io/badge/PyTorch_(Learning)-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> |
+| **Web &amp; Prototyping** | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5_/_CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/React_Basics-61DAFB?style=flat-square&logo=react&logoColor=black" /> |
+| **Tools &amp; Workflow** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat-square&logo=anthropic&logoColor=white" /> |
 
 </div>
 
 ---
 
-### 🏆 Honors &amp; Certifications
+### 🏆 Achievements & Certifications
 
-- 🥇 **Grand Finalist — Smart Horizon 2026 International 48-Hour Hackathon**: Showcased **Project SUTRA** (autonomous multi-UAV reconnaissance swarm in GPS-denied environments) before an international jury.
-- ⚡ **AMD AI Academy**: Autonomous Agents 101 Certification.
-- ☁️ **Google Cloud Skills Boost**: Agentic AI Engineering & Containerized Cloud Run Deployment.
+- 🥇 **Grand Finalist — Smart Horizon 2026 International 48-Hour Hackathon**: Showcased **Project SUTRA** (swarm reconnaissance concept) before an international jury.
 - 🎖️ **NPTEL Elite Certification (Score: 76%)**: Professional Communication & Cross-Functional Team Leadership from IIT Kharagpur/Madras.
+- ⚡ **AMD AI Academy**: Autonomous Agents 101 Certification.
+- ☁️ **Google Cloud Skills Boost**: Cloud Computing & Application Fundamentals.
 
 ---
 
-### 📊 GitHub Activity &amp; Streak
+### 📊 GitHub Activity
 
 <div align="center">
 
@@ -178,11 +168,6 @@ agentic_stack:
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harika-reddy2628&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=F7768E&currStreakLabel=7AA2F7" alt="Harika's GitHub Streak" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harika-reddy2628&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=A9B1D6" alt="Most Used Languages" />
-    </td>
-  </tr>
 </table>
 
 </div>
@@ -191,11 +176,11 @@ agentic_stack:
 
 <div align="center">
 
-> *"Autonomous agents don't just generate tokens — they take purposeful actions in the real world. Let's make those actions safe, bounded, and extraordinarily capable."*
+*"Real learning is in the daily practice and the code that runs."*
 
 <br/>
 
-**Always open to collaborating on Agentic AI, MCP servers, and Multi-Agent Swarms:**  
-📫 [duddekuntahaari@gmail.com](mailto:duddekuntahaari@gmail.com) • 💼 [linkedin.com/in/harikareddy](https://linkedin.com/in/harikareddy) • 🤗 [huggingface.co/harikareddy](https://huggingface.co/harikareddy)
+**Let's connect:**  
+📫 [duddekuntahaari@gmail.com](mailto:duddekuntahaari@gmail.com) • 💼 [linkedin.com/in/harikareddy](https://linkedin.com/in/harikareddy) • 📈 [13-Week Sprint Tracker](https://harika-reddy2628.github.io/harika-tracker/)
 
 </div>

@@ -79,9 +79,9 @@
   <!-- Left Content: Identity & Spec -->
   <!-- Tag Pill -->
   <g transform="translate(42, 34)">
-    <rect x="0" y="0" width="295" height="26" rx="13" fill="url(#badge-grad)" stroke="#7aa2f7" stroke-opacity="0.4" stroke-width="1" />
+    <rect x="0" y="0" width="280" height="26" rx="13" fill="url(#badge-grad)" stroke="#7aa2f7" stroke-opacity="0.4" stroke-width="1" />
     <circle cx="14" cy="13" r="4" fill="#9ece6a" />
-    <text x="26" y="17" fill="#7aa2f7" font-size="11.5" font-weight="600" class="mono-text" letter-spacing="0.5">⚡ AGENTIC AI ENTHUSIAST &amp; BUILDER</text>
+    <text x="26" y="17" fill="#7aa2f7" font-size="11.5" font-weight="600" class="mono-text" letter-spacing="0.5">🌱 AI UNDERGRAD &amp; BUILDER</text>
   </g>
 
   <!-- Name -->
@@ -89,33 +89,33 @@
 
   <!-- Role Subtitle -->
   <text x="42" y="132" fill="#c0caf5" font-size="14.5" font-weight="500" class="sans-text">
-    Living &amp; Breathing Autonomous Agents <tspan fill="#565f89">•</tspan> Multi-Agent Swarms <tspan fill="#565f89">•</tspan> MCP &amp; Guardrails
+    B.Tech CSE (Artificial Intelligence) <tspan fill="#565f89">•</tspan> Machine Learning <tspan fill="#565f89">•</tspan> Intelligent Systems
   </text>
 
   <!-- Quick Badges Row -->
   <g transform="translate(42, 160)">
-    <!-- Badge 1: Enthusiast -->
+    <!-- Badge 1: Undergrad -->
     <g transform="translate(0, 0)">
-      <rect x="0" y="0" width="160" height="26" rx="6" fill="#1f2335" stroke="#7aa2f7" stroke-opacity="0.6" stroke-width="1" />
-      <text x="10" y="17" fill="#7aa2f7" font-size="12" font-weight="600" class="sans-text">🤖 Agentic AI Specialist</text>
+      <rect x="0" y="0" width="190" height="26" rx="6" fill="#1f2335" stroke="#7aa2f7" stroke-opacity="0.6" stroke-width="1" />
+      <text x="10" y="17" fill="#7aa2f7" font-size="12" font-weight="600" class="sans-text">🎓 AI Undergrad @ NxtWave</text>
     </g>
 
-    <!-- Badge 2: Swarm / Hackathon Finalist -->
-    <g transform="translate(170, 0)">
-      <rect x="0" y="0" width="185" height="26" rx="6" fill="#1f2335" stroke="#e0af68" stroke-opacity="0.5" stroke-width="1" />
-      <text x="10" y="17" fill="#e0af68" font-size="12" font-weight="600" class="sans-text">🏆 Swarm Recon Finalist</text>
+    <!-- Badge 2: Hackathon Finalist -->
+    <g transform="translate(200, 0)">
+      <rect x="0" y="0" width="195" height="26" rx="6" fill="#1f2335" stroke="#e0af68" stroke-opacity="0.5" stroke-width="1" />
+      <text x="10" y="17" fill="#e0af68" font-size="12" font-weight="600" class="sans-text">🏆 Smart Horizon Finalist</text>
     </g>
 
-    <!-- Badge 3: MCP & PEP -->
-    <g transform="translate(365, 0)">
-      <rect x="0" y="0" width="165" height="26" rx="6" fill="#1f2335" stroke="#bb9af7" stroke-opacity="0.5" stroke-width="1" />
-      <text x="10" y="17" fill="#bb9af7" font-size="12" class="sans-text">🛡️ MCP &amp; Bounded PEP</text>
+    <!-- Badge 3: 13-Week Sprint -->
+    <g transform="translate(405, 0)">
+      <rect x="0" y="0" width="170" height="26" rx="6" fill="#1f2335" stroke="#bb9af7" stroke-opacity="0.5" stroke-width="1" />
+      <text x="10" y="17" fill="#bb9af7" font-size="12" class="sans-text">📈 13-Week Sprint Tracker</text>
     </g>
   </g>
 
   <!-- Micro status line -->
   <text x="42" y="218" fill="#565f89" font-size="11.5" class="mono-text">
-    <tspan fill="#73daca">❯</tspan> Multi-Agent Systems <tspan fill="#414868">|</tspan> Model Context Protocol (MCP) <tspan fill="#414868">|</tspan> Autonomous Tooling <tspan fill="#414868">|</tspan> Python
+    <tspan fill="#73daca">❯</tspan> Deep Learning <tspan fill="#414868">|</tspan> Python &amp; PyTorch <tspan fill="#414868">|</tspan> AI Systems <tspan fill="#414868">|</tspan> Daily Practice
   </text>
 
   <!-- Right Visual: Agentic Architecture Diagram (Node System) -->
@@ -127,37 +127,37 @@
     <line x1="-25" y1="45" x2="55" y2="25" stroke="#bb9af7" stroke-width="1.8" opacity="0.8" />
     <line x1="55" y1="-25" x2="55" y2="25" stroke="#9ece6a" stroke-width="1.8" opacity="0.6" />
 
-    <!-- Node 1: Autonomous Agent Core (Center-Left) -->
+    <!-- Node 1: AI / Core (Center-Left) -->
     <g transform="translate(-80, 0)">
       <circle cx="0" cy="0" r="28" fill="url(#node-glow)" class="node-pulse" />
       <circle cx="0" cy="0" r="18" fill="#1a1b26" stroke="#7aa2f7" stroke-width="2" />
-      <text x="0" y="4" fill="#7aa2f7" font-size="9" font-weight="700" text-anchor="middle" class="mono-text">AGENT</text>
+      <text x="0" y="4" fill="#7aa2f7" font-size="9" font-weight="700" text-anchor="middle" class="mono-text">AI</text>
     </g>
 
-    <!-- Node 2: Safety PEP / Guardrail (Bottom Middle) -->
+    <!-- Node 2: Data (Bottom Middle) -->
     <g transform="translate(-25, 45)">
       <circle cx="0" cy="0" r="22" fill="url(#pep-glow)" opacity="0.5" />
       <rect x="-18" y="-13" width="36" height="26" rx="6" fill="#1a1b26" stroke="#f7768e" stroke-width="1.8" />
-      <text x="0" y="4" fill="#f7768e" font-size="8.5" font-weight="700" text-anchor="middle" class="mono-text">PEP</text>
+      <text x="0" y="4" fill="#f7768e" font-size="8" font-weight="700" text-anchor="middle" class="mono-text">DATA</text>
     </g>
 
-    <!-- Node 3: Model Context Protocol (Top Middle) -->
+    <!-- Node 3: Model (Top Middle) -->
     <g transform="translate(-25, -45)">
       <circle cx="0" cy="0" r="22" fill="url(#mcp-glow)" opacity="0.5" />
-      <rect x="-18" y="-13" width="36" height="26" rx="6" fill="#1a1b26" stroke="#7dcfff" stroke-width="1.8" />
-      <text x="0" y="4" fill="#7dcfff" font-size="8.5" font-weight="700" text-anchor="middle" class="mono-text">MCP</text>
+      <rect x="-20" y="-13" width="40" height="26" rx="6" fill="#1a1b26" stroke="#7dcfff" stroke-width="1.8" />
+      <text x="0" y="4" fill="#7dcfff" font-size="8" font-weight="700" text-anchor="middle" class="mono-text">MODEL</text>
     </g>
 
-    <!-- Node 4: Swarm / Telemetry (Top Right) -->
+    <!-- Node 4: Agent (Top Right) -->
     <g transform="translate(55, -25)">
       <circle cx="0" cy="0" r="15" fill="#1a1b26" stroke="#bb9af7" stroke-width="1.5" />
-      <text x="0" y="3.5" fill="#bb9af7" font-size="8" font-weight="700" text-anchor="middle" class="mono-text">UAV</text>
+      <text x="0" y="3.5" fill="#bb9af7" font-size="7.5" font-weight="700" text-anchor="middle" class="mono-text">AGENT</text>
     </g>
 
-    <!-- Node 5: ISO 8583 / Banking (Bottom Right) -->
+    <!-- Node 5: Eval / Train (Bottom Right) -->
     <g transform="translate(55, 25)">
       <circle cx="0" cy="0" r="15" fill="#1a1b26" stroke="#9ece6a" stroke-width="1.5" />
-      <text x="0" y="3.5" fill="#9ece6a" font-size="7.5" font-weight="700" text-anchor="middle" class="mono-text">ISO</text>
+      <text x="0" y="3.5" fill="#9ece6a" font-size="7.5" font-weight="700" text-anchor="middle" class="mono-text">EVAL</text>
     </g>
 
     <!-- Data Stream Packets (animated/pulsed decorative dots) -->
